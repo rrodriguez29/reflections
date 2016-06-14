@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
  Git creates some metadata to enable file tracking.
 How is the staging area different from the working directory and the repository? what value do you think it offers?
  it sets aside files that will be committed to the repository.
+How can you use the staging area to make sure you have one commit per logical change?
+ when a logical change has been made place the relevant files to the staging area to separate them from the files that are not ready to be committed.
