@@ -6,3 +6,5 @@ How can you use the staging area to make sure you have one commit per logical ch
  when a logical change has been made place the relevant files to the staging area to separate them from the files that are not ready to be committed.
 What are some situations when branches would be helpful in keeping your history organize? How would branches help?
  Working on different major changes, multiple people working on different major changes
+How do diagrams help you visualize the branch structure?
+ They help you see on what commit the project branched off in.
