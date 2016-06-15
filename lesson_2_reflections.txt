@@ -10,3 +10,5 @@ How do diagrams help you visualize the branch structure?
  They help you see on what commit the project branched off in.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
  A combined branch that has the changes and commit history of the two parent branches. To display creation order and point of origin.
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+ Automatic merging can lead to a merge that doesnt make sense logically or both branches are incomplete. It may ganruntee the most up to date code between branches. Manual merges may take longer to do. Issue can be worked out and merges can be more meaningful.
