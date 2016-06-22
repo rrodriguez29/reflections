@@ -8,3 +8,5 @@ What is the benefit of having a copy of the last known state of the remote store
   to use as a base commit if you ever need to roll back, to make merging easier with the master.
 How would you collaborate without using Git or Github? What would be easier, and what would be harder?
   Probably sharing code in a server. It would be easier to access and modify however it would be harder to track who made what changes and where
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  When adding a new feature that can take time to fully implement. You or someone else can take time to work on said feature from a base working branch and merge with master when ready.
